@@ -87,3 +87,37 @@ body {
       transform: translateY(0);
     }
   }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  
+  .integrantes {
+    text-align: right;
+    font-family: Arial, sans-serif;
+    color: #222;
+  }
+ 
+  h2 {
+    margin-bottom: 10px;
+    color: #003566;
+  }
+  .integrantes p {
+    margin: 0;
+    font-size: 17px;
+  }
+  i {
+    color: #0077b6;
+    font-size: 50px;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+
+  i:hover {
+    color: #023e8a;
+  }
