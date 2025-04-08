@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
-    background: url(/img/vene.png) no-repeat center center fixed;
+    background: url(/img/vene.png) no-repeat center fixed;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -93,7 +93,6 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
-    width: 100%;
   }
   
   
